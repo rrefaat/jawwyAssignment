@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-10T12:50:40 EET" name="Default suite" finished-at="2023-11-10T12:50:46 EET" duration-ms="5850">
+    <groups>
+    </groups>
+    <test started-at="2023-11-10T12:50:40 EET" name="Default test" finished-at="2023-11-10T12:50:46 EET" duration-ms="5850">
+      <class name="tests.subscribePackagesTest">
+        <test-method is-config="true" signature="startDriver()[pri:0, instance:tests.subscribePackagesTest@4f2b503c]" started-at="2023-11-10T12:50:33 EET" name="startDriver" finished-at="2023-11-10T12:50:40 EET" duration-ms="7628" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startDriver -->
+        <test-method signature="test_ckeckLebanonPackages()[pri:0, instance:tests.subscribePackagesTest@4f2b503c]" started-at="2023-11-10T12:50:40 EET" name="test_ckeckLebanonPackages" finished-at="2023-11-10T12:50:43 EET" duration-ms="2433" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_ckeckLebanonPackages -->
+        <test-method signature="test_ckeckMoroccoPackages()[pri:0, instance:tests.subscribePackagesTest@4f2b503c]" started-at="2023-11-10T12:50:43 EET" name="test_ckeckMoroccoPackages" finished-at="2023-11-10T12:50:45 EET" duration-ms="1875" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_ckeckMoroccoPackages -->
+        <test-method signature="test_ckeckUAEPackages()[pri:0, instance:tests.subscribePackagesTest@4f2b503c]" started-at="2023-11-10T12:50:45 EET" name="test_ckeckUAEPackages" finished-at="2023-11-10T12:50:46 EET" duration-ms="1487" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_ckeckUAEPackages -->
+        <test-method is-config="true" signature="stopDriver()[pri:0, instance:tests.subscribePackagesTest@4f2b503c]" started-at="2023-11-10T12:50:46 EET" name="stopDriver" finished-at="2023-11-10T12:50:47 EET" duration-ms="321" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stopDriver -->
+      </class> <!-- tests.subscribePackagesTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
